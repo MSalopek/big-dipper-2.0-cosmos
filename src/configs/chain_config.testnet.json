@@ -1,24 +1,24 @@
 {
-  "title": "Desmos Block Explorer",
-  "network": "morpheus-apollo-2",
+  "title": "Animus Block Explorer",
+  "network": "corpus-testnet",
   "icon": "https://raw.githubusercontent.com/forbole/big-dipper-assets/master/desmos/icon.svg?sanitize=true",
   "logo": {
     "default": "https://raw.githubusercontent.com/forbole/big-dipper-assets/master/desmos/logo.svg?sanitize=true"
   },
   "prefix": {
-    "consensus": "desmosvalcons",
-    "validator": "desmosvaloper",
-    "account": "desmos"
+    "consensus": "animus",
+    "validator": "corpus-primus",
+    "account": "corpus-primus"
   },
   "genesis": {
     "time": "2021-07-13T08:00:00",
     "height": 1
   },
-  "primaryTokenUnit": "udaric",
-  "votingPowerTokenUnit": "udaric",
+  "primaryTokenUnit": "uanimus",
+  "votingPowerTokenUnit": "uanimus",
   "tokenUnits": {
-    "udaric": {
-      "display": "daric",
+    "uanimus": {
+      "display": "animus",
       "exponent": 6
     }
   },
