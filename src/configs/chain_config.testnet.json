@@ -1,9 +1,9 @@
 {
   "title": "Animus Block Explorer",
   "network": "corpus-testnet",
-  "icon": "https://raw.githubusercontent.com/forbole/big-dipper-assets/master/desmos/icon.svg?sanitize=true",
+  "icon": "https://raw.githubusercontent.com/MSalopek/big-dipper-2.0-cosmos/base/src/assets/animus-coin-32x32.svg?sanitize=true",
   "logo": {
-    "default": "https://raw.githubusercontent.com/forbole/big-dipper-assets/master/desmos/logo.svg?sanitize=true"
+    "default": "https://raw.githubusercontent.com/MSalopek/big-dipper-2.0-cosmos/base/src/assets/animus-logo.svg?sanitize=true"
   },
   "prefix": {
     "consensus": "animus",
